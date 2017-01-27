@@ -3,7 +3,7 @@ Getting and Cleaning Data - Course Project
 
 This repo contains the R and documentation files for the Cousera's Data Science course, "Getting and Cleaning data".
 
-Dataset: [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+Dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ## Files
 
